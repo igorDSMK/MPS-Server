@@ -1,5 +1,6 @@
 # MPS-Server
 Utilização dos conhecimentos obtidos na cadeira de MPS da UFPB.
+Esse Git está dedicado ao projeto da cadeira de MPS meramente possuindo os links correlacionados ao projeto.
 
 Segue um link para visualização do projeto:
 https://gitlab.com/101Games/Combate_Stars
